@@ -1,8 +1,7 @@
 import streamlit as st
 
 st.title("🎈Prekursor Gempa Bumi")
- st.image("https://github.com/sumawan-bmkg/prekursor/img/prekursor.png")
-
+st.image("/img/prekursor.png", caption="Peta Prekursor Indonesia")
 
 
 st.write(
