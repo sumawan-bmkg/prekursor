@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("🎈Prekursor Gempa Bumi")
- st.image("path/to/your/indonesia.jpg")
+ st.image("https://raw.githubusercontent.com/sumawan-bmkg/prekursor/48857be964ac2c78eb78d51908867fa41505f527/prekursor.png")
 
 
 
